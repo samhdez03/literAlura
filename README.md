@@ -83,4 +83,10 @@ Si tienes ideas para mejorar la aplicación o deseas agregar nuevas funcionalida
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
+## Contacto
+
+Si tienes preguntas o necesitas ayuda, no dudes en contactarnos:
+- **LinkedIn**: www.linkedin.com/in/samantha-hernandez-caballero
+- **GitHub**: [https://github.com/samhdez03](https://github.com/samhdez03/literAlura.git)
+
 ---
